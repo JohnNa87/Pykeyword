@@ -1,0 +1,14 @@
+import pandas as pd
+
+
+# Keyword Search : where the keyword will be entered into
+
+
+
+# Word Filtering : filtering words from the search result
+
+
+# Anchor Search : search all related anchor in the url
+
+
+
